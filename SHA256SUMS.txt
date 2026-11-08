@@ -1,0 +1,1 @@
+a56e1d12a218d2672e10646f7c5f6f26bc9c824e11697a9ede6af3b1351b6481  ARTEX-0.4.1-Linux-amd64.tar.gz
